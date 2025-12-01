@@ -96,39 +96,3 @@ This design is:
 
 
 
-## 🐙 PHASE 7: Upload to GitHub
-
-### Step 10: Prepare GitHub Repository
-
-**If you DON'T have a GitHub repo yet:**
-
-1. Go to [github.com](https://github.com)
-2. Click **"New repository"** (green button)
-3. Name it: `ecell-vitbhopal-assignment` (or similar)
-4. Make it **Public**
-5. ✅ Check "Add a README file"
-6. Click **"Create repository"**
-
-**If you ALREADY have a repo:**
-- Just navigate to it
-
-### Step 11: Upload Files to GitHub
-
-**Method A: Using GitHub Website (Easiest)**
-
-1. **Navigate to your repository**
-
-2. **Click "Add file" → "Upload files"**
-
-3. **Drag and drop your entire `figma-design` folder**
-   - OR click "choose your files" and select all files
-
-4. **Files to upload:**
-```
-   figma-design/
-   ├── README.md
-   ├── desktop-view.png
-   ├── mobile-view.png
-   ├── style-guide.png
-   ├── components.png (if you have it)
-   └── design-export.pdf (if you have it)
